@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "txacme",
+  "versions": [
+    {
+      "commit": "ac18f92f6dde971a6b38f2ecfae44665815db583",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:22:37.392754+00:00"
+    }
+  ]
+}

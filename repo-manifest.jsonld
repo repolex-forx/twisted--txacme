@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/txacme/commit/ac18f92f6dde971a6b38f2ecfae44665815db583",
       "git:hexsha": "ac18f92f6dde971a6b38f2ecfae44665815db583",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/twisted/txacme/commit/14e475b06b05d8aca818f569e0ef93af5f74660f",
